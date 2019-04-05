@@ -1,0 +1,37 @@
+<<<<<<< .mine
+dans tata maj2
+maj2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+<<<<<<< .mine
+dans tata maj
+maj
+
+
+
+
+
+=======
+<<<<<<< .mine
+dans tata
+
+=======
+dans tata maj3 br1 maj
+
+>>>>>>> .theirs
+>>>>>>> .theirs
+>>>>>>> .theirs
