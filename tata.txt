@@ -1,2 +1,7 @@
+<<<<<<< .mine
+dans tata
+
+=======
 dans tata maj3 br1 maj
 
+>>>>>>> .theirs
